@@ -25,6 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Advait Bharathulwar's First CS193 Homework
+- Coverage of Basic Important information
+- Hands on homeworks with active coding etc.
+- PSO times and convenience.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
